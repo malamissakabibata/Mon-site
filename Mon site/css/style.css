@@ -1,0 +1,35 @@
+.menu {
+	float: right;
+}
+.menu a {
+	font-size: xx-large;
+	margin-left: 40px;
+	padding-right: 20px;
+}
+a
+{
+	text-decoration: none;
+	color: #121F53;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+
+
+ .red{
+    color:red;
+    }
+/*.form-area
+{
+	padding: 10px 40px 0px;
+	margin: 10px 0px 0px;
+	border: 1px solid GREY;
+	}*/
+
+
+#c4i
+{
+	font-weight: bold;
+	font-size: 70px;
+	text-align: center;
+}
